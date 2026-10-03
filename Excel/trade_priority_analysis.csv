@@ -1,0 +1,98 @@
+commodity_code,commodity,imports_2020_billion,imports_2024_billion,deficit_change_billion,import_growth_pct,priority_score
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",104.36,217.94,66.95,108.84,80.66
+71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",41.05,89.44,43.60,117.88,47.48
+88,"Aircraft, spacecraft, and parts thereof",1.48,9.66,2.34,554.23,30.77
+85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",42.94,83.47,14.62,94.36,29.46
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",35.20,60.76,11.51,72.60,23.15
+97,Works of art; collectors' pieces and antiques,0.06,0.31,-0.02,428.25,22.49
+72,Iron and steel,7.55,17.42,10.32,130.66,18.04
+26,"Ores, slag and ash",2.34,6.84,5.73,192.04,16.47
+18,Cocoa and cocoa preparations,0.24,0.87,0.54,262.69,15.70
+39,Plastics and articles thereof,11.97,21.61,8.26,80.46,15.40
+07,Vegetables and certain roots and tubers; edible,1.65,5.10,2.62,209.27,15.22
+93,Arms and ammunition; parts and accessories thereof,0.05,0.19,-0.13,254.33,14.86
+74,Copper and articles thereof,4.25,10.33,5.03,143.25,14.53
+02,Meat and edible meat offal,0.00,0.01,-0.84,250.09,14.26
+10,Cereals,0.10,0.33,-3.02,234.30,12.41
+91,Clocks and watches and parts thereof,0.22,0.63,0.41,189.10,12.40
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",10.60,16.75,5.60,58.09,12.18
+29,Organic chemicals,18.15,25.65,4.23,41.30,12.12
+06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",0.02,0.05,0.02,186.01,11.96
+17,Sugars and sugar confectionery,0.76,1.93,1.31,154.25,11.59
+67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",0.01,0.03,-0.26,174.44,11.30
+53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,0.26,0.68,0.37,159.89,11.11
+76,Aluminium and articles thereof,3.65,7.67,2.06,109.96,11.01
+46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",0.00,0.01,-0.02,164.50,10.99
+90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",8.22,13.50,3.43,64.29,10.72
+52,Cotton,0.49,1.20,0.08,146.70,10.47
+25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",2.26,4.63,2.21,105.22,10.39
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,0.01,0.02,-0.21,148.69,10.21
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",0.05,0.12,-0.92,153.00,10.01
+80,Tin; articles thereof,0.18,0.43,0.23,135.05,9.92
+42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",0.21,0.48,-0.39,134.47,9.56
+70,Glass and glassware,0.94,2.00,0.71,113.78,9.51
+45,Cork and articles of cork,0.01,0.01,0.01,121.16,9.13
+66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",0.02,0.05,0.03,120.57,9.12
+22,"Beverages, spirits and vinegar",0.64,1.32,0.56,105.69,8.97
+33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",0.66,1.37,-0.13,107.00,8.65
+81,"Metals; n.e.c., cermets and articles thereof",0.32,0.66,0.25,104.43,8.64
+28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",6.19,9.60,1.46,55.02,8.60
+78,Lead and articles thereof,0.62,1.26,0.09,103.27,8.60
+60,Fabrics; knitted or crocheted,0.42,0.83,0.30,99.51,8.48
+47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1.81,3.15,1.35,74.30,8.34
+54,Man-made filaments; strip and the like of man-made textile materials,0.75,1.41,0.53,89.52,8.27
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",0.08,0.17,-0.42,99.46,7.97
+48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1.85,3.19,0.51,72.31,7.79
+75,Nickel and articles thereof,0.70,1.26,0.44,80.17,7.79
+83,Metal; miscellaneous products of base metal,0.67,1.22,0.22,81.99,7.74
+44,Wood and articles of wood; wood charcoal,1.46,2.45,0.84,67.96,7.67
+69,Ceramic products,0.51,0.94,-0.27,86.34,7.61
+40,Rubber and articles thereof,2.61,4.41,0.00,68.99,7.56
+57,Carpets and other textile floor coverings,0.09,0.17,-0.25,83.83,7.39
+35,Albuminoidal substances; modified starches; glues; enzymes,0.52,0.90,0.22,74.50,7.36
+34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",0.84,1.41,0.19,68.88,7.19
+01,Animals; live,0.01,0.02,0.00,75.17,7.13
+79,Zinc and articles thereof,0.44,0.75,0.31,67.78,7.09
+08,"Fruit and nuts, edible; peel of citrus fruit or melons",3.20,4.54,0.99,42.01,6.96
+61,Apparel and clothing accessories; knitted or crocheted,0.38,0.68,-0.99,79.52,6.87
+92,Musical instruments; parts and accessories of such articles,0.04,0.07,0.01,67.66,6.81
+32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1.72,2.79,-0.34,61.80,6.80
+38,Chemical products n.e.c.,5.66,7.67,0.15,35.43,6.71
+68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",0.65,1.03,-0.06,58.54,6.53
+94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1.05,1.65,-0.10,56.68,6.53
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",0.18,0.29,0.07,58.53,6.48
+43,Furskins and artificial fur; manufactures thereof,0.00,0.01,0.01,59.28,6.44
+50,Silk,0.11,0.18,-0.01,58.27,6.41
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",0.98,1.47,0.13,50.19,6.35
+37,Photographic or cinematographic goods,0.15,0.22,0.07,54.82,6.32
+59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",0.50,0.77,0.10,51.95,6.29
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",0.11,0.17,-0.25,56.83,6.22
+03,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.13,0.21,-0.82,62.71,6.16
+62,Apparel and clothing accessories; not knitted or crocheted,0.51,0.85,-1.62,66.39,5.98
+11,"Products of the milling industry; malt, starches, inulin, wheat gluten",0.06,0.10,-0.34,52.34,5.96
+65,Headgear and parts thereof,0.03,0.04,-0.02,45.25,5.82
+56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",0.31,0.44,-0.07,43.54,5.79
+09,"Coffee, tea, mate and spices",0.80,1.23,-1.14,54.33,5.78
+13,"Lac; gums, resins and other vegetable saps and extracts",0.26,0.37,-0.23,45.55,5.77
+31,Fertilizers,7.18,7.71,0.48,7.41,5.69
+05,Animal originated products; not elsewhere specified or included,0.03,0.04,-0.16,43.92,5.68
+87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",4.31,7.78,-5.28,80.45,5.68
+58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",0.15,0.22,0.03,38.96,5.60
+86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",0.53,0.73,-0.05,36.50,5.54
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",0.84,1.12,-0.06,33.77,5.47
+64,Footwear; gaiters and the like; parts of such articles,0.44,0.61,-0.38,37.51,5.38
+73,Iron or steel articles,3.54,5.04,-2.17,42.54,5.31
+96,Miscellaneous manufactured articles,0.54,0.67,-0.07,24.29,4.98
+95,"Toys, games and sports requisites; parts and accessories thereof",0.41,0.50,-0.08,23.31,4.91
+16,"Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof",0.01,0.01,-0.13,22.57,4.77
+41,Raw hides and skins (other than furskins) and leather,0.35,0.40,-0.01,14.86,4.56
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,0.11,0.12,0.01,10.62,4.34
+04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",0.04,0.04,-0.44,16.04,4.32
+21,Miscellaneous edible preparations,0.18,0.21,-0.73,18.65,4.30
+55,Man-made staple fibres,0.75,0.81,-0.27,8.00,4.19
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",0.27,0.25,-0.19,-6.48,3.52
+23,"Food industries, residues and wastes thereof; prepared animal fodder",0.68,0.68,-0.85,-0.30,3.49
+63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",0.60,0.61,-1.17,1.32,3.37
+89,"Ships, boats and floating structures",5.35,4.52,-1.19,-15.61,3.25
+99,Commodities not specified according to kind,1.88,1.48,-0.33,-21.56,2.98
+30,Pharmaceutical products,2.48,2.80,-4.24,12.92,2.52

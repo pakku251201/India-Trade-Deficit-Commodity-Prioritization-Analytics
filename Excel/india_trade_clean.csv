@@ -1,0 +1,11 @@
+﻿Year,Period_Year,Reporter_Code,Reporter,Trade_Flow,Partner_Code,Partner,Classification,Commodity,Trade_Value_USD, Trade_Value_Billion_USD ,Net_Trade_Billion_USD
+2020,2020,IND,India,Import,W00,World,H5,All Commodities,367980363479.68,367.98,-367.9803635
+2020,2020,IND,India,Export,W00,World,H5,All Commodities,275488744927.55,275.49,275.4887449
+2021,2021,IND,India,Import,W00,World,H5,All Commodities,570402004491.76,570.40,-570.4020045
+2021,2021,IND,India,Export,W00,World,H5,All Commodities,394813673347.30,394.81,394.8136733
+2022,2022,IND,India,Import,W00,World,H6,All Commodities,732565993392.93,732.57,-732.5659934
+2022,2022,IND,India,Export,W00,World,H6,All Commodities,452684213646.75,452.68,452.6842136
+2023,2023,IND,India,Import,W00,World,H6,All Commodities,672140129635.88,672.14,-672.1401296
+2023,2023,IND,India,Export,W00,World,H6,All Commodities,431411977211.30,431.41,431.4119772
+2024,2024,IND,India,Import,W00,World,H6,All Commodities,697745120144.98,697.75,-697.7451201
+2024,2024,IND,India,Export,W00,World,H6,All Commodities,434435484213.94,434.44,434.4354842
